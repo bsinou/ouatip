@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "address": "Adresse",
+    "info": "Infos",
+    "accommodations": "Logements",
+    "news": "Nouvelles",
+    "gallery": "Photos",
+    "contact": "Contact",
+    "rsvp": "RSVP"
+  },
+  "home": {
+    "title": "Bienvenue",
+    "message1": "Après quelques années de vie commune, quatre merveilleux enfants, une expatriation et quelques aventures, nous avons décidé qu'il était temps d'officialiser notre histoire :-)",
+    "message2": "Et quoi de mieux que de fêter cela avec vous, l'été prochain, au cœur de la campagne ?",
+    "moreInfo": "Plus d'informations..."
+  },
+  "address": {
+    "title": "Le Château du Mazeau",
+    "street": "2, le Mazeau",
+    "city": "23130 Peyrat-la-Nonière",
+    "country": "France",
+    "access": "Accessible en voiture, à pieds ou en vélo:",
+    "gps": "Coordonnées GPS: 46.080945, 2.267674",
+    "map": "Pour la carte, c'est",
+    "mapLink": "chez Gogole",
+    "mapSuffix": "pour le moment.",
+    "train": "La gare la plus proche est",
+    "trainLink": "la Souterraine",
+    "trainInfo": "Si vous souhaitez venir en train, et que vous avez besoin d'un transport, il serait fort judicieux de nous prévenir ;)."
+  },
+  "info": {
+    "title": "Infos pratiques",
+    "date": "Le 15 août 2026",
+    "location": "en Creuse",
+    "dress": "Tenue : élégante et confortable avec une touche de doré",
+    "ceremony": "Cérémonie à 14h30",
+    "dinner": "Dîner(**) et soirée sur place",
+    "children": "Les enfants sont les bienvenus",
+    "dietary": "(**) nous prévenir en cas d'allergies, intolérances ou régime particulier. Nous, on aime la viande, le vin et le fromage, et pour certaines, le chocolat."
+  },
+  "accommodations": {
+    "title": "Logements",
+    "camping": "Un camping (Inch Allah avec douche) est prévu sur place.",
+    "online": "Sinon, booking.com, gîte de France et RBnB sont vos amis.",
+    "backup": "Nous avons aussi quelques plans de secours, en cas de problème nous contacter."
+  },
+  "news": {
+    "title": "Nouvelles",
+    "message": "Le programme détaillé arrive bientôt 💌"
+  },
+  "contact": {
+    "title": "Contact",
+    "message": "Pour toute question ou RSVP :"
+  },
+  "gallery": {
+    "title": "Photos",
+    "altText": "Photo",
+    "caption": "Là où tout a commencé (ou presque), l'été dernier en Colombie"
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "nameLabel": "Nom :",
+    "attendLabel": "Je serai présent(e)",
+    "submit": "Envoyer",
+    "thankYou": "Merci pour votre réponse, {{name}} !"
+  },
+  "login": {
+    "title": "Accès protégé",
+    "message": "Veuillez entrer le mot de passe pour accéder au site.",
+    "placeholder": "Mot de passe",
+    "error": "Mot de passe incorrect",
+    "submit": "Entrer"
+  },
+  "footer": {
+    "names": "Aurélie & Bruno",
+    "tagline": "Once upon a time, in Peyrat-la-Nonière..."
+  },
+  "notFound": "Page non trouvée"
+}

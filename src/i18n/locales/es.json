@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "address": "Dirección",
+    "info": "Info",
+    "accommodations": "Alojamiento",
+    "news": "Noticias",
+    "gallery": "Fotos",
+    "contact": "Contacto",
+    "rsvp": "RSVP"
+  },
+  "home": {
+    "title": "Bienvenidos",
+    "message1": "Después de algunos años de vida en común, cuatro hijos maravillosos, una expatriación y algunas aventuras, decidimos que era hora de oficializar nuestra historia :-)",
+    "message2": "¿Y qué mejor que celebrarlo con vosotros, el próximo verano, en el corazón del campo?",
+    "moreInfo": "Más información..."
+  },
+  "address": {
+    "title": "Château du Mazeau",
+    "street": "2, le Mazeau",
+    "city": "23130 Peyrat-la-Nonière",
+    "country": "Francia",
+    "access": "Accesible en coche, a pie o en bicicleta:",
+    "gps": "Coordenadas GPS: 46.080945, 2.267674",
+    "map": "Para el mapa, está",
+    "mapLink": "en Google",
+    "mapSuffix": "por ahora.",
+    "train": "La estación de tren más cercana es",
+    "trainLink": "La Souterraine",
+    "trainInfo": "Si deseáis venir en tren y necesitáis transporte, sería muy prudente avisarnos ;)."
+  },
+  "info": {
+    "title": "Información Práctica",
+    "date": "15 de agosto de 2026",
+    "location": "en Creuse",
+    "dress": "Vestimenta: elegante y cómoda con un toque dorado",
+    "ceremony": "Ceremonia a las 14:30",
+    "dinner": "Cena(**) y velada en el lugar",
+    "children": "Los niños son bienvenidos",
+    "dietary": "(**) por favor avisadnos sobre alergias, intolerancias o dietas especiales. Nos encanta la carne, el vino y el queso, y a algunos de nosotros, el chocolate."
+  },
+  "accommodations": {
+    "title": "Alojamiento",
+    "camping": "Camping (si Dios quiere con ducha) disponible en el lugar.",
+    "online": "De lo contrario, booking.com, Gîtes de France y Airbnb son vuestros amigos.",
+    "backup": "También tenemos algunos planes de respaldo, si hay algún problema por favor contactadnos."
+  },
+  "news": {
+    "title": "Noticias",
+    "message": "Programa detallado próximamente 💌"
+  },
+  "contact": {
+    "title": "Contacto",
+    "message": "Para cualquier pregunta o RSVP:"
+  },
+  "gallery": {
+    "title": "Fotos",
+    "altText": "Foto",
+    "caption": "Donde todo comenzó (o casi), el verano pasado en Colombia"
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "nameLabel": "Nombre:",
+    "attendLabel": "Asistiré",
+    "submit": "Enviar",
+    "thankYou": "¡Gracias por tu respuesta, {{name}}!"
+  },
+  "login": {
+    "title": "Acceso Protegido",
+    "message": "Por favor, introduce la contraseña para acceder al sitio.",
+    "placeholder": "Contraseña",
+    "error": "Contraseña incorrecta",
+    "submit": "Entrar"
+  },
+  "footer": {
+    "names": "Aurélie & Bruno",
+    "tagline": "Once upon a time, in Peyrat-la-Nonière..."
+  },
+  "notFound": "Página no encontrada"
+}
