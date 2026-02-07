@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Home",
+    "address": "Address",
+    "info": "Info",
+    "accommodations": "Accommodations",
+    "news": "News",
+    "gallery": "Photos",
+    "contact": "Contact",
+    "rsvp": "RSVP"
+  },
+  "home": {
+    "title": "Welcome",
+    "message1": "After some wonderful years together and many adventures,",
+    "message1b": "we decided it was time to make it official :-)",
+    "message2": "And what better way to celebrate than with you, next summer, in the heart of the countryside?",
+    "moreInfo": "More information..."
+  },
+  "address": {
+    "title": "The Dream Venue",
+    "street": "123 Example Street",
+    "city": "12345 Sample City",
+    "country": "Example Country",
+    "access": "Accessible by car, on foot or by bike:",
+    "gps": "GPS coordinates: 00.000000, 0.000000",
+    "map": "For the map, it's",
+    "mapLink": "on Google",
+    "mapSuffix": "for now.",
+    "train": "The nearest train station is",
+    "trainLink": "Example Station",
+    "trainInfo": "If you wish to come by train and need transport, it would be very wise to let us know ;)."
+  },
+  "info": {
+    "title": "Practical Information",
+    "date": "Month Day, Year",
+    "location": "in Sample Region",
+    "dress": "Attire: elegant and comfortable with a touch of your favorite color",
+    "ceremony": "Ceremony at 2:30 PM",
+    "dinner": "Dinner(**) and evening on site",
+    "children": "Children are welcome",
+    "dietary": "(**) please let us know about allergies, intolerances or special diets. We love good food and celebration!"
+  },
+  "accommodations": {
+    "title": "Accommodations",
+    "camping": "Camping (with amenities) is available on site.",
+    "online": "Otherwise, booking.com and Airbnb are your friends.",
+    "backup": "We also have some backup plans, if there's a problem please contact us."
+  },
+  "news": {
+    "title": "News",
+    "message": "Detailed program coming soon"
+  },
+  "contact": {
+    "title": "Contact",
+    "message": "For any questions or RSVP:"
+  },
+  "gallery": {
+    "title": "Photos",
+    "altText": "Photo",
+    "caption1": "Our venue, a place full of stories... To be completed together!",
+    "caption2": "Where it all began, last summer"
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "nameLabel": "Name:",
+    "attendLabel": "I will attend",
+    "submit": "Submit",
+    "thankYou": "Thank you for your RSVP, {{name}}!"
+  },
+  "login": {
+    "title": "Protected Access",
+    "message": "Please enter the password to access the site.",
+    "placeholder": "Password",
+    "error": "Incorrect password",
+    "submit": "Enter"
+  },
+  "footer": {
+    "names": "Jane & John",
+    "tagline": "Once upon a time..."
+  },
+  "notFound": "Page not found"
+}

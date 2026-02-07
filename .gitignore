@@ -1,0 +1,33 @@
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# IDE
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+*~
+src/i18n/locales_*
+
+.env
+.env.local
+.env.*.local
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scripts
+scripts/source_images/
+scripts/__pycache__/
+scripts/*.pyc
+public/images/*.jpg
+
